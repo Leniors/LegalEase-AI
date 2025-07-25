@@ -16,7 +16,8 @@ export default function HomePage() {
 
         <h1 className="text-4xl sm:text-2xl md:text-4xl font-extrabold leading-tight">
           Your Legal Co-Pilot. <br className="hidden sm:inline" />
-          Powered by AI. Available Worldwide.
+          Understand your rights. Instantly.
+          Powered by AI.
         </h1>
 
         <p className="text-lg sm:text-md text-gray-300">
