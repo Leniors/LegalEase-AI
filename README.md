@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚖️ LegalEase AI
 
-## Getting Started
+> Your instant AI-powered legal companion — built to make the law accessible, clear, and global.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧠 Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**LegalEase AI** is a sleek, privacy-first web app that uses artificial intelligence to provide real-time, plain-language answers to legal questions. Whether you're a freelancer reviewing a contract, a tenant facing eviction, or just a curious mind — LegalEase gives you the clarity you need.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Designed with simplicity, accessibility, and trust at its core, LegalEase AI brings **legal understanding to everyone, everywhere**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌐 Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+🔗 [Visit LegalEase AI](https://legal-ease-ai-nine.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Features
 
-## Deploy on Vercel
+- 🌍 **Ask any legal question** — and get an instant, understandable response.
+- 🎨 **Sleek dark-mode UI** — crafted with accessibility and clarity in mind.
+- 🧠 **Powered by OpenAI** — trained to interpret law and explain it like a human.
+- 🔐 **No account needed** — privacy-first by default.
+- ✨ Fully responsive and mobile-friendly.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📁 Project Structure
+
+
+---
+
+## 🛠️ Built With
+
+- **Next.js 14** – App Router
+- **Tailwind CSS** – Custom dark-mode styling
+- **TypeScript** – Type safety for reliability
+- **OpenAI API** – Smart legal query responses
+- **Vercel** – Deployed instantly
+
+---
+
+## 💡 Vision
+
+> To democratize access to legal knowledge — helping people understand their rights and options with clarity, speed, and trust.
+
+---
+
+## ✍️ Author
+
+**Leniors Mokua**  
+🧑‍💻 Full-stack Developer | LegalTech Visionary  
+🌍 [LinkedIn](https://linkedin.com/in/leeroy_mokua) | 🌐 [https://leeroy-mokua.vercel.app/]
+
+---
+
+## 🙌 Support the Mission
+
+If you believe in accessible legal help for all, consider giving this repo a ⭐, sharing it, or contributing!
